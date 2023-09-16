@@ -1,0 +1,21 @@
+---
+object: set
+id: e0b3fda1-a6ca-4996-849b-08b463d39484
+code: tor
+mtgo_code: tor
+arena_code: tor
+tcgplayer_id: 112
+name: Torment
+uri: https://api.scryfall.com/sets/e0b3fda1-a6ca-4996-849b-08b463d39484
+scryfall_uri: https://scryfall.com/sets/tor
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ator&unique=prints
+released_at: '2002-02-04'
+set_type: expansion
+card_count: 143
+printed_size: 143
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ody
+block: Odyssey
+icon_svg_uri: https://svgs.scryfall.io/sets/tor.svg?1694404800

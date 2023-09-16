@@ -1,0 +1,115 @@
+---
+object: card
+id: 1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5
+oracle_id: 7192ff07-9a84-49ad-a40c-ce255ce21544
+multiverse_ids:
+- 34470
+mtgo_id: 17167
+mtgo_foil_id: 17168
+tcgplayer_id: 9742
+cardmarket_id: 2346
+name: Putrid Imp
+lang: en
+released_at: '2002-02-04'
+uri: https://api.scryfall.com/cards/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5
+scryfall_uri: https://scryfall.com/card/tor/77/putrid-imp?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.jpg?1562628793
+  normal: https://cards.scryfall.io/normal/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.jpg?1562628793
+  large: https://cards.scryfall.io/large/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.jpg?1562628793
+  png: https://cards.scryfall.io/png/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.png?1562628793
+  art_crop: https://cards.scryfall.io/art_crop/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.jpg?1562628793
+  border_crop: https://cards.scryfall.io/border_crop/front/1/b/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5.jpg?1562628793
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Creature — Zombie Imp
+oracle_text: |-
+  Discard a card: Putrid Imp gains flying until end of turn.
+  Threshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Threshold
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e0b3fda1-a6ca-4996-849b-08b463d39484
+set: tor
+set_name: Torment
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e0b3fda1-a6ca-4996-849b-08b463d39484
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ator&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tor?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7192ff07-9a84-49ad-a40c-ce255ce21544&unique=prints
+collector_number: '77'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: c838ff56-367c-431a-967a-7f81d3231219
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6264
+penny_rank: 497
+prices:
+  usd: '0.28'
+  usd_foil: '18.27'
+  usd_etched: 
+  eur: '0.45'
+  eur_foil: '21.36'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=34470
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Putrid+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Putrid+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Putrid+Imp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9742?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Putrid+Imp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/17167?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

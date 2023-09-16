@@ -1,0 +1,128 @@
+---
+object: card
+id: 32987720-cc0c-416b-b79b-217d3b37542d
+oracle_id: 6aeba615-2d37-4eb8-a377-41a517e95aa3
+multiverse_ids:
+- 29873
+mtgo_id: 17295
+mtgo_foil_id: 17296
+tcgplayer_id: 9641
+cardmarket_id: 2387
+name: Acorn Harvest
+lang: en
+released_at: '2002-02-04'
+uri: https://api.scryfall.com/cards/32987720-cc0c-416b-b79b-217d3b37542d
+scryfall_uri: https://scryfall.com/card/tor/118/acorn-harvest?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/2/32987720-cc0c-416b-b79b-217d3b37542d.jpg?1562629169
+  normal: https://cards.scryfall.io/normal/front/3/2/32987720-cc0c-416b-b79b-217d3b37542d.jpg?1562629169
+  large: https://cards.scryfall.io/large/front/3/2/32987720-cc0c-416b-b79b-217d3b37542d.jpg?1562629169
+  png: https://cards.scryfall.io/png/front/3/2/32987720-cc0c-416b-b79b-217d3b37542d.png?1562629169
+  art_crop: https://cards.scryfall.io/art_crop/front/3/2/32987720-cc0c-416b-b79b-217d3b37542d.jpg?1562629169
+  border_crop: https://cards.scryfall.io/border_crop/front/3/2/32987720-cc0c-416b-b79b-217d3b37542d.jpg?1562629169
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: |-
+  Create two 1/1 green Squirrel creature tokens.
+  Flashback—{1}{G}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Flashback
+all_parts:
+- object: related_card
+  id: 27f8ccb9-32b2-4562-a60f-843e82795984
+  component: token
+  name: Squirrel
+  type_line: Token Creature — Squirrel
+  uri: https://api.scryfall.com/cards/27f8ccb9-32b2-4562-a60f-843e82795984
+- object: related_card
+  id: 32987720-cc0c-416b-b79b-217d3b37542d
+  component: combo_piece
+  name: Acorn Harvest
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/32987720-cc0c-416b-b79b-217d3b37542d
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e0b3fda1-a6ca-4996-849b-08b463d39484
+set: tor
+set_name: Torment
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e0b3fda1-a6ca-4996-849b-08b463d39484
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ator&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tor?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/32987720-cc0c-416b-b79b-217d3b37542d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6aeba615-2d37-4eb8-a377-41a517e95aa3&unique=prints
+collector_number: '118'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Edward P. Beard, Jr.
+artist_ids:
+- b845b8ee-aeea-4822-bcf9-7230625ac95c
+illustration_id: 52cb6339-2e95-4e04-85d8-74fb3a375948
+border_color: black
+frame: '1997'
+frame_effects:
+- tombstone
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7169
+penny_rank: 1100
+prices:
+  usd: '0.36'
+  usd_foil: '12.24'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '7.90'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29873
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Acorn+Harvest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Acorn+Harvest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Acorn+Harvest
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9641?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Acorn+Harvest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/17295?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

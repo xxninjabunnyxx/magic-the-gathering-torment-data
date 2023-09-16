@@ -1,0 +1,114 @@
+---
+object: card
+id: 9d258fe7-7906-43ca-8ebd-344aa81cb85b
+oracle_id: b8dab16c-681c-4abe-b164-fcfb5dc66678
+multiverse_ids:
+- 34229
+mtgo_id: 17319
+mtgo_foil_id: 17320
+tcgplayer_id: 9773
+cardmarket_id: 2402
+name: Nantuko Cultivator
+lang: en
+released_at: '2002-02-04'
+uri: https://api.scryfall.com/cards/9d258fe7-7906-43ca-8ebd-344aa81cb85b
+scryfall_uri: https://scryfall.com/card/tor/133/nantuko-cultivator?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/d/9d258fe7-7906-43ca-8ebd-344aa81cb85b.jpg?1562631150
+  normal: https://cards.scryfall.io/normal/front/9/d/9d258fe7-7906-43ca-8ebd-344aa81cb85b.jpg?1562631150
+  large: https://cards.scryfall.io/large/front/9/d/9d258fe7-7906-43ca-8ebd-344aa81cb85b.jpg?1562631150
+  png: https://cards.scryfall.io/png/front/9/d/9d258fe7-7906-43ca-8ebd-344aa81cb85b.png?1562631150
+  art_crop: https://cards.scryfall.io/art_crop/front/9/d/9d258fe7-7906-43ca-8ebd-344aa81cb85b.jpg?1562631150
+  border_crop: https://cards.scryfall.io/border_crop/front/9/d/9d258fe7-7906-43ca-8ebd-344aa81cb85b.jpg?1562631150
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Insect Druid
+oracle_text: When Nantuko Cultivator enters the battlefield, you may discard any number
+  of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that
+  many cards.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e0b3fda1-a6ca-4996-849b-08b463d39484
+set: tor
+set_name: Torment
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e0b3fda1-a6ca-4996-849b-08b463d39484
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ator&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tor?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9d258fe7-7906-43ca-8ebd-344aa81cb85b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab8dab16c-681c-4abe-b164-fcfb5dc66678&unique=prints
+collector_number: '133'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Darrell Riche
+artist_ids:
+- 262c8e55-4efc-467b-a042-6f734b9d2e01
+illustration_id: 844606ea-959f-4350-8f8a-7be72b0d47e1
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10210
+penny_rank: 12067
+prices:
+  usd: '0.29'
+  usd_foil: '6.48'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '15.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=34229
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nantuko+Cultivator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nantuko+Cultivator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nantuko+Cultivator
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9773?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nantuko+Cultivator&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/17319?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
